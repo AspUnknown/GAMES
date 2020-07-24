@@ -7,9 +7,9 @@ Termux game is a Script where you can find all The Games that Are available for 
 
 pkg install git -y
 
-git clone https://github.com/AspUnknown/GAMES/tree/master
+git clone https://github.com/AspUnknown/GAMES
 
-cd Termux-Games
+cd GAMES
 
 chmod +x *
 
