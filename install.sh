@@ -1,7 +1,7 @@
 
 # Termux-Games
-# Coded by: Khansaad1275 (You dont become a coder by just changing the credits)
-# Github: https://github.com/khansaad1275/Termux-Games
+# Coded by: UNKNOWN HACKER ASP YOUTUBER (You dont become a coder by just changing the credits)
+# Github: https://github.com/AspUnknown/GAMES
 
 
 
@@ -11,7 +11,7 @@ echo -e "\e[032m" "Please Don't copy the Code And Give creadits If you are using
 clear
 
 
-echo "play Games in Termux by-LearnTermux.tech"
+echo "play Games in Termux by- UNKNOWN HACKER ASP"
 
 echo -e "\e[032m"
 apt install ruby -y && gem install lolcat
